@@ -1,0 +1,40 @@
+h1{
+    font-size:25px ;
+}
+.mydiv1{
+    width: 100%;
+    display: inline-block;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.mydiv1 img{
+    width: 70%;
+}
+.link-button{
+   
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: 300;
+
+}
+section{  
+    padding-bottom: 100px;
+    margin-bottom: 20px;
+}
+.dream-big{
+    background-image: none;
+}
+.dream-big img{
+    width: 70%;
+    margin-left: 8%;
+}
+.single-exp{
+    box-shadow:5px 5px 20px dimgray;
+    border-radius: 5px;
+    height: 60%;
+    width: 85%;
+    margin-bottom: 20px;
+}
+.single-exp p{
+    font-size: 75%;
+}
